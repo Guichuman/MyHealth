@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AveriaLibre-Bold.ttf",
+      "sha1": "f3582b3f288c550a283c0dadb05dd71fc8b28a81"
+    },
+    {
+      "path": "assets/fonts/AveriaLibre-BoldItalic.ttf",
+      "sha1": "94671185ecb210994f0e777d1cbab39c9d68e8f1"
+    },
+    {
+      "path": "assets/fonts/AveriaLibre-Italic.ttf",
+      "sha1": "aa69ab687fcb40130df840a6b73003f193d46beb"
+    },
+    {
+      "path": "assets/fonts/AveriaLibre-Light.ttf",
+      "sha1": "244b849d4224819973c7f20c2feafc1358f082e3"
+    },
+    {
+      "path": "assets/fonts/AveriaLibre-LightItalic.ttf",
+      "sha1": "ccf97f4b369f3f5bb53de0cebd2404cf8e362e8c"
+    },
+    {
+      "path": "assets/fonts/AveriaLibre-Regular.ttf",
+      "sha1": "b0be824ce3f4f835a384efd48d701df10080c988"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha1": "b3aae17fbf21057c60a4edd242c7e6bdac2fd0b7"
+    },
+    {
+      "path": "assets/images/vacina.png",
+      "sha1": "8c262acaf8bee1568215dfeed2541fb9c2915902"
+    }
+  ]
+}
